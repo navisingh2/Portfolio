@@ -4,10 +4,6 @@ p {
     font-size: 16px;
 }
 
-h2 {
-    color: 
-}
-
 body{
     font: 15px/1.5 Arial, Helvetica, sans-serif;
     padding: 0;
@@ -16,11 +12,10 @@ body{
   }
 
 .myDiv {
-    text-align: center;
-    background-color: lightskyblue;
-    border: none;
-}
-
+    border: 5px outset DBA901;
+    background-color: f4f4f4;    
+    text-align: auto;
+  =}
 
 .container{
     width: 80%;
